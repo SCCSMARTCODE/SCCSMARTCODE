@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software-Engineer and enthusiast AI-Expert
 ------------------------------------------
 
-I started my journey in web development with HTML and CSS, which laid a strong foundation for my skills. Along the way, I came across ALX, a program that provided valuable support and guidance, enabling me to dive deeper into the world of software engineering. Moreover, I had the privilege of being part of PROMETHEUS, an opportunity that has played a pivotal role in my growth and development as an AI expert. It has been an immensely beneficial experience that has further enhanced my knowledge and expertise in this field.
+I have developed a strong foundation in software engineering through my experiences with ALX, which offered invaluable support and guidance in my professional growth. Additionally, my involvement with PROMETHEUS has been a transformative opportunity, significantly enhancing my expertise in Artificial Intelligence. These experiences have greatly enriched my knowledge and have been instrumental in shaping my career in the tech industry.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [sccsmart247@gmail.com](mailto:sccsmart247@gmail.com)
