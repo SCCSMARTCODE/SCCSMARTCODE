@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EMMANUEL AYOBAMI ADEWUMI
 ========================================================================================================================================
 
-Software-Engineer and enthusiast AI-Expert
+Software-Engineer and AI/ML-Engineer
 ------------------------------------------
 
 I have developed a strong foundation in software engineering through my experiences with ALX, which offered invaluable support and guidance in my professional growth. Additionally, my involvement with PROMETHEUS has been a transformative opportunity, significantly enhancing my expertise in Artificial Intelligence. These experiences have greatly enriched my knowledge and have been instrumental in shaping my career in the tech industry.
