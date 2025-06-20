@@ -1,44 +1,172 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EMMANUEL AYOBAMI ADEWUMI
-========================================================================================================================================
+# Hi there, I'm Emmanuel Ayobami Adewumi 👋
 
-Software-Engineer and AI/ML-Engineer
-------------------------------------------
+<div align="center">
+  
+> *"Mathematics is the language with which God has written the universe."* - **Galileo Galilei**
 
-I have developed a strong foundation in software engineering through my experiences with ALX, which offered invaluable support and guidance in my professional growth. Additionally, my involvement with PROMETHEUS has been a transformative opportunity, significantly enhancing my expertise in Artificial Intelligence. These experiences have greatly enriched my knowledge and have been instrumental in shaping my career in the tech industry.
+</div>
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [sccsmart247@gmail.com](mailto:sccsmart247@gmail.com)
-* ⚡  I have a strong interest in continuous learning
+## 🚀 Software Engineer & AI/ML Engineer | Mathematical Thinker
 
-<a href="https://www.github.com/SCCSMARTCODE" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SCCSMARTCODE?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a><a href="https://www.x.com/EmmanuelAy85364" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/EmmanuelAy85364?logo=twitter&style=for-the-badge&color=000000&labelColor=ffffff"
-/></a>
-### Skills
+Welcome to my GitHub profile! I'm a passionate software engineer with deep expertise in AI/ML technologies, driven by the mathematical foundations that power our digital world. I believe in the transformative power of mathematics and its ability to solve complex problems across every domain of human endeavor.
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-</p>
+### 🌟 About Me
 
-### Socials
+- 🎓 **ALX Graduate** - Strengthened my software engineering fundamentals through comprehensive training
+- 🔬 **PROMETHEUS AI Research Team Member** - Enhanced my AI expertise and mathematical modeling through cutting-edge research
+- 🧮 **Mathematical Philosophy**: I see mathematics as the universal language that describes patterns, optimizes systems, and unlocks the secrets of artificial intelligence
+- 📚 **Research Enthusiast**: Passionate about reading and implementing insights from latest research papers in AI/ML
+- 🌍 **Location**: Nigeria
+- 📧 **Contact**: [sccsmart247@gmail.com](mailto:sccsmart247@gmail.com)
+- 💡 **Mission**: Bridging the gap between mathematical theory and practical software solutions
 
-<p align="left"> <a href="https://discord.com/users/smrt0227" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/SCCSMARTCODE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/emmanuelayobami" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/EmmanuelAy85364" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  
+> *"The book of nature is written in the language of mathematics."* - **Galileo Galilei**
 
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/SCCSMARTCODE"><img src="https://github-readme-stats.vercel.app/api?username=SCCSMARTCODE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="SCCSMARTCODE's GitHub stats" /></a>
+### 🔬 Research & Mathematical Focus
 
-<a href="http://www.github.com/SCCSMARTCODE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SCCSMARTCODE&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+I'm deeply fascinated by the **mathematical intuition** behind everything we build in technology. From the linear algebra powering neural networks to the calculus optimizing our algorithms, I believe understanding the mathematical foundations is key to innovative problem-solving.
 
-<a href="http://www.github.com/SCCSMARTCODE"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SCCSMARTCODE&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**Current Research Interests:**
+- 📊 Mathematical modeling of AI systems
+- 🧠 Neural network architectures and their mathematical foundations  
+- 📈 Optimization algorithms and their real-world applications
+- 🔍 Statistical learning theory and probabilistic models
 
-<a href="https://github.com/SCCSMARTCODE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCCSMARTCODE&langs_count=10&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  
+> *"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."* - **William Paul Thurston**
 
-<b>Top Repositories</b>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/SCCSMARTCODE/binary_trees " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SCCSMARTCODE&repo=binary_trees &title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/SCCSMARTCODE/alx-system_engineering-devops" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SCCSMARTCODE&repo=alx-system_engineering-devops&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br /><br /><br /><br /><br />
+### 🛠️ Technical Arsenal
 
-<div width="100%" align="center"><a href="https://github.com/SCCSMARTCODE/alx-low_level_programming " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SCCSMARTCODE&repo=alx-low_level_programming &title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/SCCSMARTCODE/AirBnB_clone " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SCCSMARTCODE&repo=AirBnB_clone &title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+#### **Programming Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+#### **AI/ML & Mathematical Computing**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+#### **Web Technologies**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### **Data & Analytics**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+#### **DevOps & Monitoring**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+<div align="center">
+  
+> *"In mathematics you don't understand things. You just get used to them."* - **John von Neumann**
+
+</div>
+
+---
+
+### 🎯 Core Focus Areas
+
+- **🧮 Mathematical Foundations**: Linear algebra, calculus, statistics, and discrete mathematics as applied to software engineering
+- **🤖 Artificial Intelligence**: Deep learning, neural networks, and mathematical optimization
+- **⚙️ Machine Learning**: Statistical learning, probabilistic models, and algorithmic efficiency
+- **📊 Data Science**: Mathematical modeling, statistical inference, and pattern recognition
+- **🔧 Software Architecture**: Building scalable systems with mathematical precision and efficiency
+
+<div align="center">
+  
+> *"Pure mathematics is, in its way, the poetry of logical ideas."* - **Albert Einstein**
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SCCSMARTCODE&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCCSMARTCODE&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCCSMARTCODE&theme=default&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelayobami)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/EmmanuelAy85364)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/SCCSMARTCODE)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/smrt0227)
+
+</div>
+
+---
+
+### 💼 Professional Philosophy
+
+I believe that **mathematics is the foundation of all technological advancement**. Every algorithm we write, every neural network we train, and every system we optimize is built upon centuries of mathematical discovery. My approach to software development is deeply rooted in understanding not just *how* things work, but *why* they work mathematically.
+
+**What Drives Me:**
+- 🔍 **Research-Driven Development**: Implementing cutting-edge research papers into practical solutions
+- 📐 **Mathematical Precision**: Applying rigorous mathematical thinking to solve complex problems  
+- 🌟 **Innovation Through Understanding**: Believing that deep mathematical intuition leads to breakthrough solutions
+- 🤝 **Knowledge Sharing**: Contributing to the community through mathematically-informed open source projects
+
+<div align="center">
+  
+> *"The universe cannot be read until we have learned the language and become familiar with the characters in which it is written. It is written in mathematical language."* - **Galileo Galilei**
+
+</div>
+
+---
+
+### 🏆 Notable Achievements
+
+- 🎯 **PROMETHEUS AI Research Team**: Contributing to cutting-edge AI research with mathematical rigor
+- 🔧 **ALX Software Engineering**: Mastered software development fundamentals with focus on algorithmic efficiency
+- 📚 **Research Implementation**: Successfully translated theoretical papers into working software solutions
+- 🧮 **Mathematical Computing**: Expertise in applying advanced mathematics to solve real-world engineering problems
+
+<div align="center">
+  
+> *"Mathematics is the most beautiful and most powerful creation of the human spirit."* - **Stefan Banach**
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/SCCSMARTCODE">SCCSMARTCODE</a> - Where Mathematics Meets Code</i>
+</div>
