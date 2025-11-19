@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with deep exper
 - 🧮 **Mathematical Philosophy**: I see mathematics as the universal language that describes patterns, optimizes systems, and unlocks the secrets of artificial intelligence
 - 📚 **Research Enthusiast**: Passionate about reading and implementing insights from latest research papers in AI/ML
 - 🌍 **Location**: Nigeria
-- 📧 **Contact**: [sccsmart247@gmail.com](mailto:sccsmart247@gmail.com)
+- 📧 **Contact**: [emmanuelay.adewumi@gmail.com](mailto:emmanuelay.adewumi@gmail.com)
 - 💡 **Mission**: Bridging the gap between mathematical theory and practical software solutions
 
 <div align="center">
